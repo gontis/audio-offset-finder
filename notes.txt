@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/20082935/how-to-install-pip-for-python-3-on-mac-os-x
+
+I had to go through this process myself and chose a different way that I think is better in the long run.
+
+^ sitas veikia, bet reikia eiti i https://brew.sh/
